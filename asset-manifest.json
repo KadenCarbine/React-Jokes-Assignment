@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Jokes-Assignment/static/css/main.d09b0095.css",
+    "main.js": "/React-Jokes-Assignment/static/js/main.f9665a8d.js",
+    "index.html": "/React-Jokes-Assignment/index.html",
+    "main.d09b0095.css.map": "/React-Jokes-Assignment/static/css/main.d09b0095.css.map",
+    "main.f9665a8d.js.map": "/React-Jokes-Assignment/static/js/main.f9665a8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09b0095.css",
+    "static/js/main.f9665a8d.js"
+  ]
+}
